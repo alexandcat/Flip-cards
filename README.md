@@ -1,2 +1,2 @@
 # Flip-cards
-This small game, Flipping Cards, is a coding exercise for P5.js.
+This simple game, Flipping Cards, is a coding exercise built with P5.js.
